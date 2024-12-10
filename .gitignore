@@ -1,0 +1,9 @@
+*/build
+*/out
+.gradle
+.idea
+/buildSrc
+
+# 项目排除路径
+/build/
+/spring-core/kotlin-coroutines/build/
